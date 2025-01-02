@@ -3,8 +3,11 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
+# making a global set to avoid duplicate events when scraping
+seen_url = set()
 
 def find_events(page_number):
+    global seen_url
     url = f'https://www.eventbrite.com/d/ny--new-york/tech/?subcategories=2004&page={page_number}'
     response = requests.get(url)
 
@@ -21,9 +24,16 @@ def find_events(page_number):
         date_and_location = event.find_all('p', class_='Typography_root__487rx #585163 Typography_body-md__487rx event-card__clamp-line--one Typography_align-match-parent__487rx')
         if len(date_and_location) < 2:
             continue
+
+        event_url = event.a['href']
+
+        # handling duplicate events
+        if event_url in seen_url:
+            continue
+
+        seen_url.add(event_url)
         event_location = date_and_location[1].text.strip()
         event_date = date_and_location[0].text.strip() 
-        event_url = event.a['href']
         event_name = event.a.h3.text
         print(f"Event Name: {event_name}")
         print(f"Read More: {event_url}")
@@ -40,13 +50,21 @@ def find_events(page_number):
 
     return events
 
+def save_to_json(data, filename="event_info.json"):
+    # Convert the set to a list if necessary
+    if isinstance(data, set):
+        data = list(data)
+
+    with open(filename, 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+
 
 def main():
 
-    OUTPUT_FILE = "event_info.jsonl"
+    OUTPUT_FILE = "event_info.json"
     page_number = 1
     
-    with open("event_info.jsonl", 'w') as file:
+    with open(OUTPUT_FILE, 'w') as file:
         while True:
             print(f"Searching page {page_number}...\n")
             events = find_events(page_number)
@@ -61,14 +79,11 @@ def main():
                 print("Starting new search")
 
                 continue
+
             # implement file writing 
-            # for event in events:
-            #     file.write(json.dumps(event))
+            save_to_json(events, OUTPUT_FILE)
+            
             page_number += 1
-
-
-        
-
 
 
 if __name__ == "__main__":
