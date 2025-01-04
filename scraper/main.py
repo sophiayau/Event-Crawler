@@ -3,12 +3,23 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
+
+"""
+TO DOS:
+try scraping multiple websites
+add headers to avoid being ip blocked
+look into moving data into a database instead of json file
+figure out how to correct data and reformat dates into usable datetime form
+"""
+
+
 # making a global set to avoid duplicate events when scraping
 seen_url = set()
 
 """
 another website i found that i can use: 
 https://www.meetup.com/find/?keywords=tech&location=us--ny--New%20York&source=EVENTS&categoryId=546
+how can i handle duplicates now with 2 diff sites/urls but possible same events?
 """
 
 def find_events(page_number):
