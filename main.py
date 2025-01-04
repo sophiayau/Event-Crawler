@@ -42,18 +42,18 @@ def find_events(page_number):
         print("---"*10)
 
         events.append({
-            "event_name": {event_name},
-            "event_url": {event_url},
-            "event_date": {event_date},
-            "event_location": {event_location}
+            "event_name": event_name,
+            "event_url": event_url,
+            "event_date": event_date,
+            "event_location": event_location
         })
 
     return events
 
 def save_to_json(data, filename="event_info.json"):
     # Convert the set to a list if necessary
-    if isinstance(data, set):
-        data = list(data)
+    
+    data = list(data)
 
     with open(filename, 'w') as json_file:
         json.dump(data, json_file, indent=4)
