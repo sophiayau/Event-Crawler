@@ -6,6 +6,11 @@ import json
 # making a global set to avoid duplicate events when scraping
 seen_url = set()
 
+"""
+another website i found that i can use: 
+https://www.meetup.com/find/?keywords=tech&location=us--ny--New%20York&source=EVENTS&categoryId=546
+"""
+
 def find_events(page_number):
     global seen_url
     url = f'https://www.eventbrite.com/d/ny--new-york/tech/?subcategories=2004&page={page_number}'
