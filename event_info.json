@@ -1,5 +1,365 @@
 [
     {
+        "event_name": "HABIBI TECH DEMO DAY",
+        "event_url": "https://www.eventbrite.com/e/habibi-tech-demo-day-tickets-1120211856819?aff=ebdssbdestsearch",
+        "event_date": "Tomorrow at 2:00 PM",
+        "event_location": "Brooklyn Penthouse"
+    },
+    {
+        "event_name": "Tech Networking Event: Explore Cyber Security, IT, AI and Big Tech",
+        "event_url": "https://www.eventbrite.com/e/tech-networking-event-explore-cyber-security-it-ai-and-big-tech-tickets-1114557895669?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 16, 6:00 PM",
+        "event_location": "Manhattan, New York"
+    },
+    {
+        "event_name": "Tech & Business Networking Event: Cyber Security, IT, AI and Big Tech",
+        "event_url": "https://www.eventbrite.com/e/tech-business-networking-event-cyber-security-it-ai-and-big-tech-tickets-1114558196569?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 16, 6:00 PM",
+        "event_location": "Manhattan, New York"
+    },
+    {
+        "event_name": "Gateway to Growth: Israel Tech to NYC Roadshow 2025",
+        "event_url": "https://www.eventbrite.com/e/gateway-to-growth-israel-tech-to-nyc-roadshow-2025-tickets-1104471627369?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 15, 9:00 AM",
+        "event_location": "Fox Rothschild LLP"
+    },
+    {
+        "event_name": "Tech Training Workshops (Geospatial Risk Summit)",
+        "event_url": "https://www.eventbrite.com/e/tech-training-workshops-geospatial-risk-summit-tickets-1055588275949?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 29, 1:00 PM",
+        "event_location": "St. John's University Manhattan Campus"
+    },
+    {
+        "event_name": "Tech & Business Networking Event: Breaking into AI, Cyber Security, IT",
+        "event_url": "https://www.eventbrite.com/e/tech-business-networking-event-breaking-into-ai-cyber-security-it-tickets-1114558728159?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 16, 6:00 PM",
+        "event_location": "Manhattan, New York"
+    },
+    {
+        "event_name": "Tech & Business Networking Event: AI, Cyber Security, IT, Code  Enthusiasts",
+        "event_url": "https://www.eventbrite.com/e/tech-business-networking-event-ai-cyber-security-it-code-enthusiasts-tickets-1114219944849?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 16, 6:00 PM",
+        "event_location": "Manhattan, New York"
+    },
+    {
+        "event_name": "NYC Women In Tech Meetup",
+        "event_url": "https://www.eventbrite.ca/e/nyc-women-in-tech-meetup-tickets-1118131012959?aff=ebdssbdestsearch",
+        "event_date": "Sun, Jan 12, 1:00 PM",
+        "event_location": "In\u00e8s"
+    },
+    {
+        "event_name": "Tech Gather NYC January Meetup",
+        "event_url": "https://www.eventbrite.com/e/tech-gather-nyc-january-meetup-tickets-1125711676929?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 9, 7:00 PM",
+        "event_location": "The Irish American"
+    },
+    {
+        "event_name": "NYC Tech Toastmasters First January Meeting",
+        "event_url": "https://www.eventbrite.com/e/nyc-tech-toastmasters-first-january-meeting-tickets-1125598207539?aff=ebdssbdestsearch",
+        "event_date": "Wednesday at 6:45 PM",
+        "event_location": "12-16 Vestry St 4th floor"
+    },
+    {
+        "event_name": "NYC Tech AI & Startups DinnerGroup",
+        "event_url": "https://www.eventbrite.com/e/nyc-tech-ai-startups-dinnergroup-tickets-1113174989359?aff=ebdssbdestsearch",
+        "event_date": "Today at 6:30 PM + 6 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "NYC Tech AI & Startup Founders DinnerGroup",
+        "event_url": "https://www.eventbrite.com/e/nyc-tech-ai-startup-founders-dinnergroup-tickets-1085353504549?aff=ebdssbdestsearch",
+        "event_date": "Wednesday at 6:30 PM + 1 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "Young IT Professionals in New York Social",
+        "event_url": "https://www.eventbrite.com.au/e/young-it-professionals-in-new-york-social-tickets-1059285835449?aff=ebdssbdestsearch",
+        "event_date": "Today at 5:30 PM + 50 more",
+        "event_location": "Lydia's"
+    },
+    {
+        "event_name": "IT Social New York | Data, Technology, Cybersecurity, IT",
+        "event_url": "https://www.eventbrite.com.au/e/it-social-new-york-data-technology-cybersecurity-it-tickets-1059285855509?aff=ebdssbdestsearch",
+        "event_date": "Today at 5:30 PM + 50 more",
+        "event_location": "Lydia's"
+    },
+    {
+        "event_name": "NYC LeetCode Study Session for FAANG Interviews @ GA (Union Square)",
+        "event_url": "https://www.eventbrite.com/e/nyc-leetcode-study-session-for-faang-interviews-ga-union-square-tickets-1109252105909?aff=ebdssbdestsearch",
+        "event_date": "Thursday at 5:30 PM + 2 more",
+        "event_location": "10 E 21st St"
+    },
+    {
+        "event_name": "AI x Fashion: Design Your Collection with Artificial Intelligence",
+        "event_url": "https://www.eventbrite.com/e/ai-x-fashion-design-your-collection-with-artificial-intelligence-tickets-1096772870179?aff=ebdssbdestsearch",
+        "event_date": "Monday at 12:00 PM + 167 more",
+        "event_location": "D4D Studios"
+    },
+    {
+        "event_name": "HealthNext AI 2025",
+        "event_url": "https://www.eventbrite.com/e/healthnext-ai-2025-tickets-1123105220949?aff=ebdssbdestsearch",
+        "event_date": "Mon, Mar 3, 9:00 AM",
+        "event_location": "Verizon Executive Education Center"
+    },
+    {
+        "event_name": "Blockchain Fundamentals for Professionals | New York City",
+        "event_url": "https://www.eventbrite.com/e/blockchain-fundamentals-for-professionals-new-york-city-tickets-1048343342157?aff=ebdssbdestsearch",
+        "event_date": "Wednesday at 12:00 PM + 43 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "The AI Factor Intensive for Executive Leaders",
+        "event_url": "https://www.eventbrite.com/e/the-ai-factor-intensive-for-executive-leaders-tickets-1060414922579?aff=ebdssbdestsearch",
+        "event_date": "Fri, Jan 10, 8:00 AM",
+        "event_location": "Columbia University"
+    },
+    {
+        "event_name": "SurrealDB January Meetup",
+        "event_url": "https://www.eventbrite.co.uk/e/surrealdb-january-meetup-tickets-1110660017009?aff=ebdssbdestsearch",
+        "event_date": "Tue, Jan 14, 6:30 PM",
+        "event_location": "The Yard: Columbus Circle Coworking Office Space NYC"
+    },
+    {
+        "event_name": "Empowering Finance through DeFi | New York City",
+        "event_url": "https://www.eventbrite.com/e/empowering-finance-through-defi-new-york-city-tickets-1048346060287?aff=ebdssbdestsearch",
+        "event_date": "Wed, Feb 5, 12:00 PM + 41 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "How to Prepare for AI's Industry Transformation and Job Market Disruption?",
+        "event_url": "https://www.eventbrite.com/e/how-to-prepare-for-ais-industry-transformation-and-job-market-disruption-tickets-1118213910909?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 15, 6:00 PM",
+        "event_location": "China Institute in America"
+    },
+    {
+        "event_name": "Greenly Summit 2025: Halfway to the Net Zero Target Date",
+        "event_url": "https://www.eventbrite.com/e/greenly-summit-2025-halfway-to-the-net-zero-target-date-tickets-1105537675949?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 30, 6:00 PM",
+        "event_location": "Energy Impact Partners"
+    },
+    {
+        "event_name": "Entrepreneurship for Tech Employees and Engineers - Jersey City",
+        "event_url": "https://www.eventbrite.com/e/entrepreneurship-for-tech-employees-and-engineers-jersey-city-tickets-479637908897?aff=ebdssbdestsearch",
+        "event_date": "Tomorrow at 8:00 PM + 11 more",
+        "event_location": "Online"
+    },
+    {
+        "event_name": "AI as Memory Machine",
+        "event_url": "https://www.eventbrite.com/e/ai-as-memory-machine-registration-1110787067019?aff=ebdssbdestsearch",
+        "event_date": "Tue, Jan 21, 7:00 PM",
+        "event_location": "The National Arts Club"
+    },
+    {
+        "event_name": "TechConnect Virtual Job & Networking Event #TechSpecialists  #NYC",
+        "event_url": "https://www.eventbrite.com/e/techconnect-virtual-job-networking-event-techspecialists-nyc-tickets-1048162019817?aff=ebdssbdestsearch",
+        "event_date": "Wed, Feb 5, 4:00 PM + 22 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "MOMENTUM+ /You're a UX Designer at  an AI-Powered Startup",
+        "event_url": "https://www.eventbrite.com/e/momentum-youre-a-ux-designer-at-an-ai-powered-startup-tickets-1124759518999?aff=ebdssbdestsearch",
+        "event_date": "Tue, Feb 4, 7:00 PM",
+        "event_location": "Jersey City"
+    },
+    {
+        "event_name": "Ask-A-Tech Basic (Walk-In) @ Sheepshead Bay Library",
+        "event_url": "https://www.eventbrite.com/e/ask-a-tech-basic-walk-in-sheepshead-bay-library-tickets-897408853037?aff=ebdssbdestsearch",
+        "event_date": "Thursday at 2:00 PM + 4 more",
+        "event_location": "Brooklyn Public Library - Sheepshead Bay Branch"
+    },
+    {
+        "event_name": "NYC Tech Toastmasters Jan 2025 | 2nd Meeting",
+        "event_url": "https://www.eventbrite.com/e/nyc-tech-toastmasters-jan-2025-2nd-meeting-tickets-1130858210349?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 22, 6:45 PM",
+        "event_location": "12-16 Vestry St 4th floor"
+    },
+    {
+        "event_name": "AI Connect - Job and Career Networking #AI Specialists #New York City",
+        "event_url": "https://www.eventbrite.com/e/ai-connect-job-and-career-networking-ai-specialists-new-york-city-tickets-1106965998099?aff=ebdssbdestsearch",
+        "event_date": "Fri, Jan 10, 5:00 PM + 23 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "Algorythm\u2122\ufe0f| Intro to Machine Learning",
+        "event_url": "https://www.eventbrite.com/e/algorythmtm-intro-to-machine-learning-tickets-391638851347?aff=ebdssbdestsearch",
+        "event_date": "Today at 7:00 PM + 74 more",
+        "event_location": "Mindshop Online Classroom"
+    },
+    {
+        "event_name": "Data Science & Analytics meetup and chat New York",
+        "event_url": "https://www.eventbrite.com.au/e/data-science-analytics-meetup-and-chat-new-york-tickets-1059285885599?aff=ebdssbdestsearch",
+        "event_date": "Today at 5:30 PM + 50 more",
+        "event_location": "Lydia's"
+    },
+    {
+        "event_name": "ALGORYTHM\u2122\ufe0f| Intro to Machine Learning",
+        "event_url": "https://www.eventbrite.com/e/algorythmtm-intro-to-machine-learning-tickets-536848467217?aff=ebdssbdestsearch",
+        "event_date": "Wednesday at 7:00 PM + 99 more",
+        "event_location": "Algorythm Online Classroom"
+    },
+    {
+        "event_name": "Algorythm\u2122| Become a Machine Learning Ninja",
+        "event_url": "https://www.eventbrite.com/e/algorythmtm-become-a-machine-learning-ninja-tickets-721859058877?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 9, 7:00 PM + 131 more",
+        "event_location": "Algorythm Online Classroom"
+    },
+    {
+        "event_name": "Well4Tech's Israel Innovation Event",
+        "event_url": "https://www.eventbrite.com/e/well4techs-israel-innovation-event-tickets-1133793660359?aff=ebdssbdestsearch",
+        "event_date": "Tue, Feb 25, 3:00 PM",
+        "event_location": "Greenberg Traurig, LLP"
+    },
+    {
+        "event_name": "ALGORYTHM\u2122\ufe0f| Become a Machine Learning Ninja (for Non-Techies)",
+        "event_url": "https://www.eventbrite.com/e/algorythmtm-become-a-machine-learning-ninja-for-non-techies-tickets-688077998817?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 9, 7:00 PM + 124 more",
+        "event_location": "Algorythm Online Classroom"
+    },
+    {
+        "event_name": "You Own the Internet",
+        "event_url": "https://www.eventbrite.com/e/you-own-the-internet-tickets-1106735849719?aff=ebdssbdestsearch",
+        "event_date": "Sat, Jan 25, 11:00 AM",
+        "event_location": "134 W 29th St"
+    },
+    {
+        "event_name": "Intro to Fusion 360",
+        "event_url": "https://www.eventbrite.com/e/intro-to-fusion-360-tickets-1110659896649?aff=ebdssbdestsearch",
+        "event_date": "Sat, Jan 25, 1:00 PM",
+        "event_location": "Futureworks Makerspace- Brooklyn Army Terminal"
+    },
+    {
+        "event_name": "MLconf New York City 2025",
+        "event_url": "https://www.eventbrite.com/e/mlconf-new-york-city-2025-tickets-1042236867527?aff=ebdssbdestsearch",
+        "event_date": "Thu, Mar 27, 8:00 AM",
+        "event_location": "Midtown Manhattan"
+    },
+    {
+        "event_name": "Leveraging Robotics for Success | Toronto",
+        "event_url": "https://www.eventbrite.com/e/leveraging-robotics-for-success-toronto-tickets-1047760358437?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 15, 12:00 PM + 43 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "WalkMeThru Algorythm/ You're a Real Estate Agent Optimized with AI",
+        "event_url": "https://www.eventbrite.com/e/walkmethru-algorythm-youre-a-real-estate-agent-optimized-with-ai-tickets-1085208400539?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 22, 10:00 AM",
+        "event_location": "Manhattan Online"
+    },
+    {
+        "event_name": "Mastering AI for Business: A Practical Workshop",
+        "event_url": "https://www.eventbrite.com/e/mastering-ai-for-business-a-practical-workshop-tickets-974252143387?aff=ebdssbdestsearch",
+        "event_date": "Tomorrow at 10:00 AM",
+        "event_location": "122 E 42nd St 4th floor 1018"
+    },
+    {
+        "event_name": "Laser Cutter : BUS (Basic Use and Safety)",
+        "event_url": "https://www.eventbrite.com/e/laser-cutter-bus-basic-use-and-safety-tickets-1119884979119?aff=ebdssbdestsearch",
+        "event_date": "Tomorrow at 12:00 PM + 1 more",
+        "event_location": "Futureworks Makerspace- Brooklyn Army Terminal"
+    },
+    {
+        "event_name": "Learn Microsoft Copilot for Office 365 | New York City FiDi",
+        "event_url": "https://www.eventbrite.com/e/learn-microsoft-copilot-for-office-365-new-york-city-fidi-tickets-1041585659747?aff=ebdssbdestsearch",
+        "event_date": "Tuesday at 9:00 AM",
+        "event_location": "Serendipity Labs Private Offices & Coworking"
+    },
+    {
+        "event_name": "AI Implementation in Business | New York City",
+        "event_url": "https://www.eventbrite.com/e/ai-implementation-in-business-new-york-city-tickets-1012558980167?aff=ebdssbdestsearch",
+        "event_date": "Wed, Jan 22, 12:00 PM + 43 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "New York AI Conference",
+        "event_url": "https://www.eventbrite.com/e/new-york-ai-conference-tickets-912664222257?aff=ebdssbdestsearch",
+        "event_date": "Wed, Mar 26, 9:00 AM",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "Fusion 360 Intensive - Design 101",
+        "event_url": "https://www.eventbrite.com/e/fusion-360-intensive-design-101-tickets-1114052865109?aff=ebdssbdestsearch",
+        "event_date": "Sat, Feb 22, 1:00 PM",
+        "event_location": "Futureworks Makerspace- Brooklyn Army Terminal"
+    },
+    {
+        "event_name": "AI Project 2025  New York City,  Embrace the AI Revolution",
+        "event_url": "https://www.eventbrite.com/e/ai-project-2025-new-york-city-embrace-the-ai-revolution-tickets-1084468016029?aff=ebdssbdestsearch",
+        "event_date": "Mon, Mar 17, 10:00 AM",
+        "event_location": "Harvard Club of New York City"
+    },
+    {
+        "event_name": "Fusion 360 Intensive- CAM1",
+        "event_url": "https://www.eventbrite.com/e/fusion-360-intensive-cam1-tickets-1022836169517?aff=ebdssbdestsearch",
+        "event_date": "Sat, Mar 22, 1:00 PM",
+        "event_location": "Futureworks Makerspace- Brooklyn Army Terminal"
+    },
+    {
+        "event_name": "Dominate Your Market with AI",
+        "event_url": "https://www.eventbrite.com/e/dominate-your-market-with-ai-tickets-1131166693029?aff=ebdssbdestsearch",
+        "event_date": "Tue, Jan 28, 9:00 AM",
+        "event_location": "Kvibe Studios"
+    },
+    {
+        "event_name": "George Avet- Virtual Reality Tour",
+        "event_url": "https://www.eventbrite.com/e/george-avet-virtual-reality-tour-tickets-1042520305297?aff=ebdssbdestsearch",
+        "event_date": "Tomorrow at 10:00 AM",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "New York-Online Site Reliability Engineering (SRE) Open Brainstorming Forum",
+        "event_url": "https://www.eventbrite.com/e/new-york-online-site-reliability-engineering-sre-open-brainstorming-forum-tickets-850368393757?aff=ebdssbdestsearch",
+        "event_date": "Sunday at 12:30 PM + 157 more",
+        "event_location": "Online - Zoom"
+    },
+    {
+        "event_name": "ISTQB\u00ae Foundation Training Course for your Testing team - New York",
+        "event_url": "https://www.eventbrite.com/e/istqb-foundation-training-course-for-your-testing-team-new-york-tickets-29744591875?aff=ebdssbdestsearch",
+        "event_date": "Tue, Jan 21, 9:00 AM + 17 more",
+        "event_location": "Your premises"
+    },
+    {
+        "event_name": "ISTQB\u00ae Agile Tester Exam and Training Course for the team - New York",
+        "event_url": "https://www.eventbrite.com/e/istqb-agile-tester-exam-and-training-course-for-the-team-new-york-tickets-34163737659?aff=ebdssbdestsearch",
+        "event_date": "Mon, Jan 20, 9:00 AM + 20 more",
+        "event_location": "New York"
+    },
+    {
+        "event_name": "ALGORYTHM | Data Science vs Artificial Intelligence: Clarify Your Doubts",
+        "event_url": "https://www.eventbrite.com/e/algorythm-data-science-vs-artificial-intelligence-clarify-your-doubts-tickets-433519617847?aff=ebdssbdestsearch",
+        "event_date": "Fri, Jan 10, 6:00 PM + 81 more",
+        "event_location": "Algorythm Online Classroom"
+    },
+    {
+        "event_name": "ALGORYTHM\u2122| Data Science vs Artificial Intelligence: Clarify Your Doubts",
+        "event_url": "https://www.eventbrite.com/e/algorythmtm-data-science-vs-artificial-intelligence-clarify-your-doubts-tickets-680779889977?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 9, 7:00 PM + 122 more",
+        "event_location": "Algorythm Online Classroom"
+    },
+    {
+        "event_name": "#ProductCon New York: The Largest Product Conference",
+        "event_url": "https://www.eventbrite.com/e/productcon-new-york-the-largest-product-conference-tickets-990345067757?aff=ebdssbdestsearch",
+        "event_date": "Wed, May 21, 9:00 AM",
+        "event_location": "Metropolitan Pavilion"
+    },
+    {
+        "event_name": "ALGORYTHM \u2122| Data Science vs Artificial Intelligence: Clarify Your Doubts",
+        "event_url": "https://www.eventbrite.com/e/algorythm-tm-data-science-vs-artificial-intelligence-clarify-your-doubts-tickets-677658754577?aff=ebdssbdestsearch",
+        "event_date": "Today at 7:00 PM + 122 more",
+        "event_location": "Algorythm Online Classroom"
+    },
+    {
+        "event_name": "Arduino Foundations I",
+        "event_url": "https://www.eventbrite.com/e/arduino-foundations-i-tickets-1106558027849?aff=ebdssbdestsearch",
+        "event_date": "Sun, Jan 26, 2:00 PM",
+        "event_location": "Futureworks Makerspace- Brooklyn Army Terminal"
+    },
+    {
+        "event_name": "Cybersecurity & Information Tech (IT) Career Networking NYC",
+        "event_url": "https://www.eventbrite.com/e/cybersecurity-information-tech-it-career-networking-nyc-tickets-1114066505909?aff=ebdssbdestsearch",
+        "event_date": "Thu, Jan 16, 6:00 PM",
+        "event_location": "Manhattan, New York"
+    },
+    {
         "event_name": "Tech Networking: AI, Cyber Security, IT & Coding Mixer",
         "event_url": "https://www.eventbrite.com/e/tech-networking-ai-cyber-security-it-coding-mixer-tickets-1114559279809?aff=ebdssbdestsearch",
         "event_date": "Thu, Jan 16, 6:00 PM",
@@ -30,22 +390,16 @@
         "event_location": "Microsoft"
     },
     {
-        "event_name": "Intro to Soldering Workshop: Make an LED Tile",
-        "event_url": "https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-1118491932479?aff=ebdssbdestsearch",
-        "event_date": "Sat, Jan 18, 1:00 PM",
-        "event_location": "NYC Resistor"
-    },
-    {
-        "event_name": "Web3 Networking Event ( Crypto, NFT, Blockchain )",
-        "event_url": "https://www.eventbrite.com/e/web3-networking-event-crypto-nft-blockchain-tickets-1128532935389?aff=ebdssbdestsearch",
-        "event_date": "Today at 6:00 PM",
-        "event_location": "Margaritaville Resort Times Square"
-    },
-    {
         "event_name": "#NYTechWeek Mix & Mingle",
         "event_url": "https://www.eventbrite.com/e/nytechweek-mix-mingle-tickets-1121063965499?aff=ebdssbdestsearch",
         "event_date": "Mon, Jun 2, 6:00 PM",
         "event_location": "Shake Shack Madison Square Park"
+    },
+    {
+        "event_name": "Intro to Soldering Workshop: Make an LED Tile",
+        "event_url": "https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-1118491932479?aff=ebdssbdestsearch",
+        "event_date": "Sat, Jan 18, 1:00 PM",
+        "event_location": "NYC Resistor"
     },
     {
         "event_name": "Top Ten Technologies",
@@ -72,14 +426,14 @@
         "event_location": "Manhattan, New York"
     },
     {
-        "event_name": "CIO X New York",
-        "event_url": "https://www.eventbrite.co.uk/e/cio-x-new-york-tickets-1089896924039?aff=ebdssbdestsearch",
+        "event_name": "CISO X New York",
+        "event_url": "https://www.eventbrite.co.uk/e/ciso-x-new-york-tickets-1089888839859?aff=ebdssbdestsearch",
         "event_date": "Wed, Apr 9, 8:00 AM",
         "event_location": "New York"
     },
     {
-        "event_name": "CISO X New York",
-        "event_url": "https://www.eventbrite.co.uk/e/ciso-x-new-york-tickets-1089888839859?aff=ebdssbdestsearch",
+        "event_name": "CIO X New York",
+        "event_url": "https://www.eventbrite.co.uk/e/cio-x-new-york-tickets-1089896924039?aff=ebdssbdestsearch",
         "event_date": "Wed, Apr 9, 8:00 AM",
         "event_location": "New York"
     },

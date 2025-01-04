@@ -51,12 +51,17 @@ def find_events(page_number):
     return events
 
 def save_to_json(data, filename="event_info.json"):
-    # Convert the set to a list if necessary
-    
-    data = list(data)
+    # read in file and append new data to existing data
+    try:
+        with open(filename, 'r') as json_file:
+            existing_data = json.load(json_file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        existing_data = []
 
+    existing_data.extend(data)
+    
     with open(filename, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+        json.dump(existing_data, json_file, indent=4)
 
 
 def main():
@@ -70,10 +75,7 @@ def main():
             events = find_events(page_number)
             if not events:
                 print(f"No more items to display...")
-                print("Halting program execution")
-                # if all events have been scraped, reset page number to 1 for the each scrape we do
-                # sleeps for 6 seconds (scrapes every 6 seconds)
-                # need to implement a hashset so it doesnt keep printing events that we already saw
+                print("Halting program execution and retrying later...")
                 page_number = 1
                 time.sleep(6)
                 print("Starting new search")
