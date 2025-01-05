@@ -1,9 +1,9 @@
+
 html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 
 .image{
     margin-left: 1vw;
@@ -11,7 +11,8 @@ html, body {
 }
 .bell{
     height:1.5em;
-    margin-right:1.5vw
+    margin-right:2.5vw;
+    cursor: pointer;
 }
 .bar{
     display: flex;
@@ -28,10 +29,12 @@ html, body {
 .titleAndLogo{
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
+
 .title{
     margin-left: 0.5em;
     font-family: "Poppins", serif;
+    user-select: none;
     color: #1c344f;
-    
 }
