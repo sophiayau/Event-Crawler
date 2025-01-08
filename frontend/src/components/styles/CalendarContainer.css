@@ -5,22 +5,18 @@
 .react-calendar__navigation {
     background-color: lightgray;
 }
-
+/* 
 .react-calendar__navigation button {
     color: black;
     padding: 5px 10px;
     border-radius: 5px;
     
-}
+} */
 
 .react-calendar__navigation__label{
     color:black;
     font-weight: 700;
     font-family: "Poppins", serif;
-}
-
-.abrr{
-    color:white;
 }
 
 .react-calendar__month-view__days__day{
@@ -184,3 +180,8 @@
     background-color: #e6e6e6;
   }
   
+  /* @media screen and (max-width: 600px) {
+    .calendar-container{
+      width: 80%;
+    }
+  } */
