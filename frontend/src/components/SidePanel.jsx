@@ -3,8 +3,10 @@ import "./styles/SidePanel.css";
 
 function SidePanel() {
   return (
-    <div>
-      <h3>Hello</h3>
+    <div className="SidePanelContainer">
+      <div className="event-title">
+        <h4>Upcoming Events</h4>
+      </div>
     </div>
   );
 }

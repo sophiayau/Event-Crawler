@@ -1,6 +1,7 @@
 .calendar-container {
   /* min-width: 375px; */
-    margin: 2em;
+  margin: 2em;
+  flex-direction: column;
 }
 
 .react-calendar__navigation {
@@ -27,12 +28,13 @@
 
 .react-calendar {
     /* min-width: 375px; */
-    width: 30em;
+    width: 25em;
     max-width: 100%;
     background: white;
     border: 2px solid #a0a096;
-    font-family: 'Arial', 'Helvetica', sans-serif;
     line-height: 1.125em;
+    height: 19em;
+    margin-bottom: 1em;
   }
   
   .react-calendar--doubleView {
@@ -186,6 +188,7 @@
     .calendar-container{
       align-items: center;
       display: flex;
-      justify-content: space-between;
+      flex-direction: row;
+      justify-content: space-around;
     }
   }
