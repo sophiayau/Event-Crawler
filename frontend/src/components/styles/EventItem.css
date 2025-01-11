@@ -1,0 +1,20 @@
+.item{
+    display: flex;
+    font-family: 'Poppins', serif;
+    width: 25em;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.event-date {
+    line-height: 0.2em;
+    font-size: smaller;
+    font-weight: 700;
+}
+
+.event-name{
+    font-size: smaller;
+    font-weight: 600;
+}
