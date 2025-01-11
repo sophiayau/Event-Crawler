@@ -1,5 +1,4 @@
 .SidePanelContainer{
-    
     width: 25em;
     background-color:white;
     border: 2px solid #a0a096;
@@ -9,13 +8,18 @@
     height: 19em;
     margin-bottom: 1em;
     box-sizing: border-box;
-    /* why is this not aligning with the calendar :/ */
+    padding-top: 0em;
+    display: flex;
+    flex-direction: column;
 }
 
 
 .event-title{
+    height: 15%;
     background-color: lightgray;
     text-align: center;
     font-family:'Poppins', serif;
     color: black;
+    line-height: 15%;
+    
 }
