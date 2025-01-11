@@ -10,6 +10,7 @@ try scraping multiple websites
 add headers to avoid being ip blocked
 look into moving data into a database instead of json file
 figure out how to correct data and reformat dates into usable datetime form
+make sure data updates for file in "public" react folder whenever program is run
 """
 
 
