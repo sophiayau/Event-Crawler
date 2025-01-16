@@ -3,6 +3,8 @@ html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #F6FAFA;
+    /* #f1f2f6 */
 }
 
 .image{
@@ -19,8 +21,10 @@ html, body {
     justify-content: space-between;
     align-items: center;
     background-color: #FAF9F6;
+    /* #E8EBED */
     height:9vh;
-    border-bottom: 1px solid rgba(212,218,220,.522)
+    /* border-bottom: 1px solid rgba(212,218,220,.522); */
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
 }
 .header-fixed{
     position: sticky;
@@ -38,3 +42,14 @@ html, body {
     user-select: none;
     color: #1c344f;
 }
+
+.bell:hover {
+    transform: scale(1.2);
+    transition: all 0.1s ease-in-out 0.1s;
+  }
+
+  .titleAndLogo:hover {
+    opacity: 1;
+    transform: scale(1.05);
+    transition: all 0.1s ease-in-out 0.1s;
+  }
